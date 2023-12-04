@@ -1,0 +1,54 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(19, 19, 126);
+    color: white;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: rgb(19, 19, 126);
+    color: white;
+    padding: 10px 0;
+}
+
+.logo {
+    float: left;
+}
+
+.navbar-links {
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+main {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: rgb(19, 19, 126);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
